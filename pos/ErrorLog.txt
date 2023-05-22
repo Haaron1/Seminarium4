@@ -1,0 +1,27 @@
+Access to database server for inventory failed while searching for item: 10
+The Stack Trace: 
+java.sql.SQLException
+	at se.kth.iv1350.pos.integration.InventorySystem.findItem(InventorySystem.java:30)
+	at se.kth.iv1350.pos.controller.Controller.searchMatchingItem(Controller.java:77)
+	at se.kth.iv1350.pos.view.View.chooseItem(View.java:49)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:85)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:15)
+
+Access to database server for inventory failed while searching for item: 10
+The Stack Trace: 
+java.sql.SQLException
+	at se.kth.iv1350.pos.integration.InventorySystem.findItem(InventorySystem.java:30)
+	at se.kth.iv1350.pos.controller.Controller.searchMatchingItem(Controller.java:77)
+	at se.kth.iv1350.pos.view.View.chooseItem(View.java:49)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:85)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:16)
+
+Access to database server for inventory failed while searching for item: 10
+The Stack Trace: 
+java.sql.SQLException
+	at se.kth.iv1350.pos.integration.InventorySystem.findItem(InventorySystem.java:30)
+	at se.kth.iv1350.pos.controller.Controller.searchMatchingItem(Controller.java:77)
+	at se.kth.iv1350.pos.view.View.chooseItem(View.java:49)
+	at se.kth.iv1350.pos.view.View.runFakeExecution(View.java:85)
+	at se.kth.iv1350.pos.startup.Main.main(Main.java:17)
+
